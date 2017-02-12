@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Aaron Zhang, softball engineer MD"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Aaron Zhang"
+description              : "Your source for all things about Aaron Zhang"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
