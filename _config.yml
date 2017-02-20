@@ -11,9 +11,9 @@ title                    : "Aaron Zhang, softball engineer MD"
 title_separator          : "-"
 name                     : "Aaron Zhang"
 description              : "Your source for all things about Aaron Zhang"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://theaaronzhang.com/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "https://github.com/zhangaaron/zhangaaron.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -55,9 +55,11 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "the_aaron_zhang"
+medium: 
+  username               : "aaronzhang"
 facebook:
-  username               :
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -81,7 +83,7 @@ author:
   avatar           : /assets/images/profile.jpg # path of avatar image 
   bio              : "Softball engineer & male stripper for children's parties."
   location         : "San Jose, California"
-  email            :
+  email            : zhangaaron1994@gmail.com
   uri              :
   bitbucket        :
   codepen          :
