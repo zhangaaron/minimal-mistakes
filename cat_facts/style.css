@@ -1,0 +1,11 @@
+label {
+    font-variant: small-caps;
+}
+
+.form-group {
+    font-variant: small-caps;
+}
+
+.error {
+    font-variant: normal
+}
